@@ -14,6 +14,7 @@ FOUNDATION_EXPORT double ExcelsiorVersionNumber;
 //! Project version string for Excelsior.
 FOUNDATION_EXPORT const unsigned char ExcelsiorVersionString[];
 
+
 // In this header, you should import all the public headers of your framework using statements like #import <Excelsior/PublicHeader.h>
 
 
